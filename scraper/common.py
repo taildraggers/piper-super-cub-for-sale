@@ -195,7 +195,7 @@ EXCLUDE_KEYWORDS = [
     "canopy", "windshield", "exhaust", "muffler", "harness", "wiring",
     "panel", "yoke", "control column", "controls", "cable", "cables",
     "throttle", "hardware", "hose", "hoses", "fitting", "fittings",
-    "bearing", "bearings", "tailwheel", "upholstery", "sump", "dipstick",
+    "bearing", "bearings", "tailwheel", "upholstery", "interior", "interiors", "sump", "dipstick",
     "connecting rods", "stc", "governor", "governors", "winter front", "winter fronts",
     "spray boom", "spray booms", "hopper", "hoppers", "spreader", "spreaders",
     "nozzle", "nozzles", "valve", "valves", "shock", "shocks", "rubber",
